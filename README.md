@@ -8,3 +8,5 @@ The notes section will contain cheatsheets and documentation serving as a knowle
 
 ## Lab
 The lab will be a simple containerized test relational database that I will use to imrpove my database design and SQL knowledge. 
+
+I will be using MySQL for this lab as it is open source and relatively easy to use. 
